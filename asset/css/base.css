@@ -1,0 +1,25 @@
+:root {
+    --white-color: #fff;
+    --black-color: #000;
+    --text-color:#333;
+    --primery-color:#F9472C;
+
+    --header-search-bar:75px;
+    --navbar-height: 25px;
+    --header-pr-height: 80px;
+    --slider-category-width:202px;
+    --slider-category-height:345px;
+    --lazamall-img-height:188px;
+}
+
+*{
+    box-sizing: inherit;
+}
+
+html{
+    font-size: 62.5%;
+    line-height: 1.6rem;
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+}
+
